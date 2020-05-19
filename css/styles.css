@@ -21,7 +21,7 @@ h2 {
 }
 
 h3 {
-  color: #11999E;
+  color: #11999e;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -30,7 +30,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #eaf6f6 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -43,7 +43,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #Eaf6f6;
+  color: #eaf6f6;
 }
 
 .profile-pic {
@@ -55,7 +55,7 @@ a:hover {
 }
 
 .top-container {
-  background-color: #effcef;
+  background-color: #222831;
   position: relative;
   padding-top: 100px;
 }
@@ -118,7 +118,7 @@ a:hover {
   margin: 40px auto 60px;
 }
 .copyright {
-  color: #EAF6F6;
+  color: #eaf6f6;
   font-size: 0.75rem;
 }
 .btn {
